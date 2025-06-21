@@ -148,4 +148,4 @@ with st.expander("📊 Full Dataset"):
 
 # Footer
 st.divider()
-st.caption("© 2025 Gwamz Analytics | Model v2.0")
+st.caption("© 2023 Gwamz Analytics | Model v2.0")
